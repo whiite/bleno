@@ -46,7 +46,7 @@
     "node-addon-api": "^3.1.0"
   },
   "optionalDependencies": {
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-7",
+    "@abandonware/bluetooth-hci-socket": "0.5.3-7",
     "bplist-parser": "0.3.0",
     "xpc-connect": "^2.0.0"
   },
